@@ -1,0 +1,9 @@
+{
+  "arch": "mobilenet_v2",
+  "split_mode": "pooled",
+  "class_weights": [
+    1.6853932584269662,
+    0.7109004739336493
+  ],
+  "best_val_auc": 0.7732427617571658
+}

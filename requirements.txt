@@ -1,0 +1,10 @@
+# Python 3.10-3.12 recommended. TensorFlow on native Windows runs on CPU only (fine for this project).
+tensorflow>=2.16
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+Pillow>=10.0
+streamlit>=1.30
+flask>=3.0
+tqdm>=4.65

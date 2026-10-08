@@ -1,0 +1,9 @@
+{
+  "arch": "efficientnet_b0",
+  "split_mode": "pooled",
+  "class_weights": [
+    1.8488063660477454,
+    0.6853490658800393
+  ],
+  "best_val_auc": 0.9981895340584852
+}
